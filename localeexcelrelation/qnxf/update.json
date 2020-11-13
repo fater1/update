@@ -1,0 +1,17 @@
+{
+
+"versionCode":4,
+
+"versionName" : "1.0.4",
+
+"updateInf":[
+
+"增加条管照明灯类型",
+
+"扫码时当检测屏幕中有二维码但是不清晰时，自动调整焦距",
+
+"优化扫码速度"
+
+],
+ "url": "https://gitee.com/moming-xl/app-update/raw/master/单灯烧录_v10.1.apk'
+ }
